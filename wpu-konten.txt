@@ -1,0 +1,6 @@
+Konten yang akan saya buat saat saya sudah jadi programmer
+1. membuat konten javacript
+2. membuat konten php
+3. membuat konten css
+4. membuat konten HTML
+5. membuat konten CRUD
